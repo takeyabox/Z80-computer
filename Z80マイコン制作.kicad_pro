@@ -239,7 +239,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|1231900|3632200|0a3957cc-9827-4858-b295-486232ca8682|00000000-0000-0000-0000-000000000000|/d3b456cd-a45d-4b7a-9b3e-db44580782e1|/d3b456cd-a45d-4b7a-9b3e-db44580782e1|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1663700|3340100|33f8acd8-b1e7-4f0b-95bc-9e91245a7253|00000000-0000-0000-0000-000000000000|/d3b456cd-a45d-4b7a-9b3e-db44580782e1|/d3b456cd-a45d-4b7a-9b3e-db44580782e1|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -453,6 +462,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -509,7 +519,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": -1,
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
