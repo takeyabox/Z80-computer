@@ -4208,7 +4208,7 @@
 		(at 44.8056 138.4046)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Electrolytic Capacitor")
-		(property "Reference" "0.01uF"
+		(property "Reference" "0.01uF-1"
 			(at 1 -3.75 0)
 			(layer "F.SilkS")
 			(uuid "2f4504a8-fdda-46f7-88a5-21b8145633cc")
@@ -7828,7 +7828,7 @@
 		(at 118.745 89.535)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-5"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "2954d46b-da30-4218-8fe8-e1bbb093d6fd")
@@ -10039,7 +10039,7 @@
 		(at 61.849 52.451)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-1"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "c29a2930-02e2-4541-88bd-baabcb630d0f")
@@ -13254,7 +13254,7 @@
 		(at 42.926 52.451)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-0"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "a82384ca-d39a-4ad3-9357-d5a6b33bfa9c")
@@ -15734,7 +15734,7 @@
 		(at 118.618 52.451)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-3"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "484eb5d1-93de-4500-885e-3d56c16d73b6")
@@ -16684,7 +16684,7 @@
 		(at 140.589 52.451)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-4"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "09fb6c68-aff9-4ca3-b1ba-01bf130c24d4")
@@ -20952,7 +20952,7 @@
 		(at 34.223888 138.43)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Electrolytic Capacitor")
-		(property "Reference" "0.01uF"
+		(property "Reference" "0.01uF-0"
 			(at 1 -3.75 0)
 			(layer "F.SilkS")
 			(uuid "6a3bc3bb-a7b2-48e6-9aef-d3d68e910ca4")
@@ -23323,7 +23323,7 @@
 		(at 140.843 89.662)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-6"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "0b9b9d3e-564d-40b3-8ada-28c429446c2d")
@@ -24021,7 +24021,7 @@
 		(at 80.772 52.451)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-2"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "c16af057-0fc5-4a8c-b0b3-a55a7c4deb45")
@@ -30680,7 +30680,7 @@
 		(at 140.97 126.238)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-8"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "f951a0fb-9c45-40c9-bdc5-baafc1782b37")
@@ -34083,7 +34083,7 @@
 		(at 118.872 127.127)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
-		(property "Reference" "74HCT244"
+		(property "Reference" "74HCT244-7"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "1a941deb-cb3a-482c-adf5-84e72141284f")

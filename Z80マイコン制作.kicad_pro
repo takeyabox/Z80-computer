@@ -511,7 +511,7 @@
       "netlist": "Z80マイコン制作.net",
       "plot": "print data(2)/",
       "pos_files": "",
-      "specctra_dsn": "line data/Z80マイコン制作 電源.dsn",
+      "specctra_dsn": "Z80マイコン制作 電源.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
