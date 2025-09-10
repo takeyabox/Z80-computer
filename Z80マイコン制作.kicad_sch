@@ -6405,12 +6405,6 @@
 		)
 	)
 	(junction
-		(at 557.53 309.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03514a39-2746-4065-943b-2eb87a2d5bc6")
-	)
-	(junction
 		(at 91.44 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6501,12 +6495,6 @@
 		(uuid "131654fa-7f12-4374-b5bd-d27d7af86cd9")
 	)
 	(junction
-		(at 557.53 317.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "13c92d00-ccf2-4bc8-b70b-882c93baff53")
-	)
-	(junction
 		(at 538.48 302.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6519,10 +6507,10 @@
 		(uuid "14498f97-1a7b-472f-9ced-e8ba907094b6")
 	)
 	(junction
-		(at 557.53 312.42)
+		(at 565.15 314.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "14b0d781-59e2-4da2-ae49-d5250b44cd0b")
+		(uuid "1469e026-1f67-4429-a108-5c3e190f6f45")
 	)
 	(junction
 		(at 88.9 76.2)
@@ -6699,12 +6687,6 @@
 		(uuid "3b49b4d4-c301-4561-9965-8e91b4fa6b4c")
 	)
 	(junction
-		(at 557.53 314.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d175ee6-5b48-4d1b-a7d5-a4257bee353b")
-	)
-	(junction
 		(at 86.36 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6781,12 +6763,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f12d0b0-4288-4f7d-9920-c7290e436309")
-	)
-	(junction
-		(at 557.53 307.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50c918b7-68c8-4708-8a34-afda93434d95")
 	)
 	(junction
 		(at 129.54 195.58)
@@ -7059,6 +7035,12 @@
 		(uuid "7cfefc51-0c98-45d8-8087-8ed893087c8e")
 	)
 	(junction
+		(at 565.15 309.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d31b182-acbb-4e14-9b7c-c41b3e2a748b")
+	)
+	(junction
 		(at 433.07 271.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7117,12 +7099,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84e4a49d-bbdd-45af-9e46-32d54cd3b4a6")
-	)
-	(junction
-		(at 557.53 320.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "868c8f0a-328b-4903-8293-29f0be62baf2")
 	)
 	(junction
 		(at 336.55 109.22)
@@ -7225,6 +7201,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "93c11b1f-7a1e-48e5-8748-0e7b8220ed07")
+	)
+	(junction
+		(at 565.15 312.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bba3d5f-870a-4958-a981-19573f910ea3")
+	)
+	(junction
+		(at 565.15 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f5a5d99-9714-4718-abf5-e23be78175ff")
 	)
 	(junction
 		(at 96.52 34.29)
@@ -7341,6 +7329,12 @@
 		(uuid "b4fd49fc-b1e6-44d6-b0ae-79da91628562")
 	)
 	(junction
+		(at 565.15 320.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b569b2b5-ac6b-4007-b07b-ab66b6740069")
+	)
+	(junction
 		(at 63.5 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7383,6 +7377,12 @@
 		(uuid "bf4895d0-cc34-4fb1-b996-be5131376f40")
 	)
 	(junction
+		(at 565.15 317.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c01f85f1-fcf4-4e1e-af8c-a6effc1a1fdb")
+	)
+	(junction
 		(at 24.13 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7411,12 +7411,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c74b174e-ad3f-4b3e-909d-b350206b560e")
-	)
-	(junction
-		(at 557.53 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c8e59c49-f628-4fa0-8293-7836de6cf130")
 	)
 	(junction
 		(at 81.28 83.82)
@@ -7483,6 +7477,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d50d1809-ef50-478c-9f91-260d27b52b06")
+	)
+	(junction
+		(at 565.15 307.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6188ee8-2356-4d2b-afc8-61ecee9f67c2")
 	)
 	(junction
 		(at 203.2 215.9)
@@ -7900,16 +7900,6 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 298.45) (xy 525.78 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00f8919e-73b3-46c7-b1f7-63f068254d8e")
-	)
-	(wire
-		(pts
 			(xy 438.15 147.32) (xy 458.47 147.32)
 		)
 		(stroke
@@ -8290,16 +8280,6 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 298.45) (xy 528.32 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e5babaf-205a-4a9f-9fef-db03a3fb0dc2")
-	)
-	(wire
-		(pts
 			(xy 63.5 73.66) (xy 91.44 73.66)
 		)
 		(stroke
@@ -8570,13 +8550,13 @@
 	)
 	(wire
 		(pts
-			(xy 557.53 317.5) (xy 557.53 320.04)
+			(xy 565.15 320.04) (xy 565.15 317.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1997cc22-1403-4d29-8a52-362737e99193")
+		(uuid "19a0d537-55ce-41df-8f07-afa1f9f0bb96")
 	)
 	(wire
 		(pts
@@ -9140,6 +9120,16 @@
 	)
 	(wire
 		(pts
+			(xy 565.15 317.5) (xy 565.15 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "337739bf-ecca-45f8-9451-88894d49823d")
+	)
+	(wire
+		(pts
 			(xy 257.81 215.9) (xy 257.81 217.17)
 		)
 		(stroke
@@ -9247,16 +9237,6 @@
 			(type default)
 		)
 		(uuid "374c535c-c3ca-4980-98c7-093d646f885d")
-	)
-	(wire
-		(pts
-			(xy 538.48 298.45) (xy 538.48 302.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37b3158d-86b9-48f8-88e0-048295497a7c")
 	)
 	(wire
 		(pts
@@ -9840,16 +9820,6 @@
 	)
 	(wire
 		(pts
-			(xy 535.94 298.45) (xy 535.94 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a734a3f-ecde-4717-adf9-ba4dd58021f2")
-	)
-	(wire
-		(pts
 			(xy 130.81 231.14) (xy 132.08 231.14)
 		)
 		(stroke
@@ -9897,6 +9867,16 @@
 			(type default)
 		)
 		(uuid "4add9a71-f11a-4a43-b68a-fcb40051eb23")
+	)
+	(wire
+		(pts
+			(xy 565.15 304.8) (xy 565.15 302.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b5239e9-600c-4e22-aee6-1ca63dd7f586")
 	)
 	(wire
 		(pts
@@ -9977,6 +9957,16 @@
 			(type default)
 		)
 		(uuid "4e605edc-e77e-441d-b72b-3d47fc2b44da")
+	)
+	(wire
+		(pts
+			(xy 565.15 312.42) (xy 565.15 309.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ec9e779-755e-4268-8012-9800af146906")
 	)
 	(wire
 		(pts
@@ -10400,6 +10390,16 @@
 	)
 	(wire
 		(pts
+			(xy 565.15 309.88) (xy 565.15 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60ef78b9-b081-41aa-87a2-260e394410bb")
+	)
+	(wire
+		(pts
 			(xy 64.77 96.52) (xy 63.5 96.52)
 		)
 		(stroke
@@ -10560,6 +10560,16 @@
 	)
 	(wire
 		(pts
+			(xy 565.15 307.34) (xy 565.15 304.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "669fa6a1-db8f-4783-9581-bca2667120da")
+	)
+	(wire
+		(pts
 			(xy 104.14 337.82) (xy 104.14 335.28)
 		)
 		(stroke
@@ -10627,16 +10637,6 @@
 			(type default)
 		)
 		(uuid "674ef5c7-0a14-48bb-a903-8e92e1f9b0f9")
-	)
-	(wire
-		(pts
-			(xy 557.53 304.8) (xy 557.53 307.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "681f1175-bcf3-47eb-9eb0-d845df3e73a8")
 	)
 	(wire
 		(pts
@@ -10830,16 +10830,6 @@
 	)
 	(wire
 		(pts
-			(xy 557.53 314.96) (xy 557.53 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7078b3bf-d39d-4c9d-8d3f-85ca479d0c2a")
-	)
-	(wire
-		(pts
 			(xy 198.12 86.36) (xy 198.12 182.88)
 		)
 		(stroke
@@ -10867,16 +10857,6 @@
 			(type default)
 		)
 		(uuid "72df093d-6697-4469-a058-f0ba27edb47c")
-	)
-	(wire
-		(pts
-			(xy 530.86 298.45) (xy 530.86 309.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "740877df-5d09-4fb5-ad9d-a11d5510ba47")
 	)
 	(wire
 		(pts
@@ -12160,16 +12140,6 @@
 	)
 	(wire
 		(pts
-			(xy 520.7 298.45) (xy 520.7 320.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9f96ca0-80fc-40d0-9202-f5e677319fbd")
-	)
-	(wire
-		(pts
 			(xy 187.96 236.22) (xy 189.23 236.22)
 		)
 		(stroke
@@ -12520,16 +12490,6 @@
 	)
 	(wire
 		(pts
-			(xy 557.53 302.26) (xy 557.53 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9df7fc8-97c2-485f-b5b3-ad09c6b1b60d")
-	)
-	(wire
-		(pts
 			(xy 93.98 214.63) (xy 144.78 214.63)
 		)
 		(stroke
@@ -12870,16 +12830,6 @@
 	)
 	(wire
 		(pts
-			(xy 533.4 298.45) (xy 533.4 307.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cdaefea7-9bdc-48ce-88d2-f660030b48e0")
-	)
-	(wire
-		(pts
 			(xy 425.45 279.4) (xy 435.61 279.4)
 		)
 		(stroke
@@ -13150,6 +13100,16 @@
 	)
 	(wire
 		(pts
+			(xy 565.15 314.96) (xy 565.15 312.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d71bae67-fa8d-4c57-947f-80c9856366bd")
+	)
+	(wire
+		(pts
 			(xy 78.74 86.36) (xy 63.5 86.36)
 		)
 		(stroke
@@ -13167,16 +13127,6 @@
 			(type default)
 		)
 		(uuid "d77546f1-b879-49d6-ae30-76b9f7aae4f3")
-	)
-	(wire
-		(pts
-			(xy 523.24 298.45) (xy 523.24 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d792434f-94db-4fbe-963b-a6b9c177cc46")
 	)
 	(wire
 		(pts
@@ -13367,16 +13317,6 @@
 			(type default)
 		)
 		(uuid "e11746af-dddb-44e4-80e2-6e642a53d2eb")
-	)
-	(wire
-		(pts
-			(xy 557.53 320.04) (xy 557.53 327.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e13fb22e-ea10-41a5-95cb-592b00de1dfd")
 	)
 	(wire
 		(pts
@@ -13577,16 +13517,6 @@
 			(type default)
 		)
 		(uuid "e88a6162-7ecc-467f-b868-40157e24077d")
-	)
-	(wire
-		(pts
-			(xy 557.53 312.42) (xy 557.53 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8f2441c-b2fe-4aae-b904-89b270e78d40")
 	)
 	(wire
 		(pts
@@ -13920,16 +13850,6 @@
 	)
 	(wire
 		(pts
-			(xy 557.53 307.34) (xy 557.53 309.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3d56067-81d9-4da4-94d5-660fe7d723af")
-	)
-	(wire
-		(pts
 			(xy 331.47 109.22) (xy 336.55 109.22)
 		)
 		(stroke
@@ -13937,16 +13857,6 @@
 			(type default)
 		)
 		(uuid "f42302f7-d470-4f66-a7f9-4ed43b02f0f1")
-	)
-	(wire
-		(pts
-			(xy 557.53 309.88) (xy 557.53 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4543a7b-7477-4453-8cf2-04a3d369fb86")
 	)
 	(wire
 		(pts
@@ -14207,6 +14117,74 @@
 			(type default)
 		)
 		(uuid "ff9c8fbd-612b-4be0-af7d-522abb2492c7")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 553.72 317.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04bfc774-ac5c-4ffa-a423-0a8267b74e8b")
+		(property "Reference" "R42"
+			(at 553.72 323.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 321.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 315.722 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "600b7308-6846-4ae5-8e4e-6de53e27c8d4")
+		)
+		(pin "2"
+			(uuid "e6f610c3-e191-44d3-b438-f1684477ca33")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Timer:NE555P")
@@ -14920,82 +14898,6 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "A0-A7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 312.42 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0cbc6cc5-e85a-43d2-b0e3-d8e5c98ec2c8")
-		(property "Reference" "O3"
-			(at 555.3075 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "768de537-9cdc-49cf-b285-6cd62d313036")
-		)
-		(pin "1"
-			(uuid "5e127d0a-05f9-4418-88d0-674e8ff1c6ac")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O3")
 					(unit 1)
 				)
 			)
@@ -17377,82 +17279,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 309.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2ae50dcb-87cf-403a-9af0-fa15a67ad5ae")
-		(property "Reference" "O4"
-			(at 555.3075 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0e1ee23f-e8ad-4925-981b-907a9abd875b")
-		)
-		(pin "1"
-			(uuid "100e8ec3-0f6c-4d4a-bfa1-75de6892e0ac")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x10_Pin")
 		(at 525.78 328.93 90)
 		(unit 1)
@@ -17539,6 +17365,83 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 312.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2dc96d7a-9c45-4e01-a389-c328f1700769")
+		(property "Reference" "O4"
+			(at 562.9275 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "15748e35-c86a-445e-bee7-a1be97d28ae4")
+		)
+		(pin "2"
+			(uuid "1a078771-afa1-4b3f-959f-47010f85bed1")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O4")
 					(unit 1)
 				)
 			)
@@ -17677,6 +17580,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 320.04 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "310a1a73-b04c-47da-bb36-907e46278926")
+		(property "Reference" "O7"
+			(at 562.9275 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "92f4fefa-261c-41f2-a58f-10fe89272951")
+		)
+		(pin "2"
+			(uuid "91b53f94-a745-4522-b034-f99ee527aecd")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 34.29 31.75 90)
 		(unit 1)
@@ -17807,82 +17787,6 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 307.34 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "342de7af-1689-4974-87f0-cea9bd24bea8")
-		(property "Reference" "O5"
-			(at 555.3075 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "04f588af-0a8f-4c82-a332-530071666afa")
-		)
-		(pin "1"
-			(uuid "1a816885-406b-4172-894b-de4a9ae76ca5")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O5")
 					(unit 1)
 				)
 			)
@@ -18945,33 +18849,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 320.04 180)
+		(lib_id "Device:R")
+		(at 553.72 302.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4762c308-0a72-4526-a6cc-c0397e031073")
-		(property "Reference" "O0"
-			(at 555.3075 326.39 0)
+		(uuid "46a7765b-626b-4e93-ba4b-ad062332e23e")
+		(property "Reference" "R48"
+			(at 553.72 308.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 555.3075 323.85 0)
+		(property "Value" "4.7k"
+			(at 553.72 306.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 320.04 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 300.482 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18980,7 +18884,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 553.72 320.04 0)
+			(at 553.72 302.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18988,34 +18892,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 320.04 0)
+		(property "Description" "Resistor"
+			(at 553.72 302.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b7899397-c509-41fb-8d1b-6a5802653571")
 		)
 		(pin "1"
-			(uuid "2a69d514-5426-44dc-b288-65a3e9da003c")
+			(uuid "bbf72d8d-fb57-4ebd-887f-11bca85f1f03")
+		)
+		(pin "2"
+			(uuid "13d02cf1-1276-4964-a4e3-365dd0af5fc0")
 		)
 		(instances
-			(project ""
+			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O0")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -19629,82 +19524,6 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 302.26 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4f564b06-125d-4424-8940-fc52ba679375")
-		(property "Reference" "O7"
-			(at 555.3075 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "81de0dee-d91e-4404-aa7f-9c86f94b9d48")
-		)
-		(pin "1"
-			(uuid "311f7331-a7ed-4aa4-8dc4-53d220961d91")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O7")
 					(unit 1)
 				)
 			)
@@ -20345,72 +20164,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 538.48 288.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5b7fb933-b3d6-49a4-ba8f-2c2def12081f")
-		(property "Reference" "#PWR035"
-			(at 538.48 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 538.48 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 538.48 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 538.48 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 538.48 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0a4ee48e-bcef-44ff-82d4-873329b8bb48")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 35.56 132.08 90)
 		(unit 1)
@@ -20545,6 +20298,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 553.72 309.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c4b520f-58a5-4238-8f69-8c4f8679e9a0")
+		(property "Reference" "R45"
+			(at 553.72 316.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 308.102 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "940189a3-3a35-4379-a790-ff2bef166f6f")
+		)
+		(pin "2"
+			(uuid "974fea49-c880-4433-af39-d65f29294f4b")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Network08")
 		(at 448.31 119.38 0)
 		(unit 1)
@@ -20636,6 +20457,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 309.88 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e432e78-4d2f-47e1-b4f5-25c04378b489")
+		(property "Reference" "O3"
+			(at 562.9275 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e49b7bd4-adeb-4275-a884-d3d1ef1d6e06")
+		)
+		(pin "2"
+			(uuid "edd491ab-b663-47e1-b077-e3492a215908")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Network08")
 		(at 74.93 260.35 0)
 		(mirror y)
@@ -20721,6 +20619,83 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "RN1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 314.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6480917e-df96-4c29-94d6-657491b36ee5")
+		(property "Reference" "O5"
+			(at 562.9275 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03a0d77d-f093-4aba-92d0-24c9c20b314d")
+		)
+		(pin "2"
+			(uuid "16a475ea-28e7-4fc6-89f9-7e45481bcfc6")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O5")
 					(unit 1)
 				)
 			)
@@ -21083,82 +21058,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 314.96 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6be624e0-d479-4bc9-9eb8-86cac3f3efe3")
-		(property "Reference" "O2"
-			(at 555.3075 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6d73c937-9fe4-4aae-9aca-0dad61d3de83")
-		)
-		(pin "1"
-			(uuid "6794a727-aea3-4972-8401-207073c1e48a")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 308.61 173.99 0)
 		(unit 1)
@@ -21352,83 +21251,6 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "#PWR061")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 317.5 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "745179d1-7c7e-483e-9753-0cf7d728b440")
-		(property "Reference" "O1"
-			(at 555.3075 323.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cc58c84f-9232-4b3d-8986-6f5591f47a44")
-		)
-		(pin "1"
-			(uuid "003ae19f-091a-4d77-94ce-ebd2b22aeda7")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O1")
 					(unit 1)
 				)
 			)
@@ -22583,72 +22405,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 557.53 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "898da3f9-2cb9-4b92-8fd2-7e2e31b16ff6")
-		(property "Reference" "#PWR045"
-			(at 557.53 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 557.53 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 557.53 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 557.53 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 557.53 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "50dbfdac-57a0-4672-b3fa-a3ffb8fcab1f")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "#PWR045")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 118.11 313.69 0)
 		(unit 1)
@@ -23110,6 +22866,74 @@
 			(project ""
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "RV0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 553.72 320.04 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90b17be1-c622-4b37-99c5-7bff2e58f631")
+		(property "Reference" "R41"
+			(at 553.72 326.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 323.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 318.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "55f8a020-537e-4cdf-95d3-6174357e0ff8")
+		)
+		(pin "2"
+			(uuid "5dc4ba6f-8c75-41a2-a6f3-738814f2be00")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -23666,6 +23490,74 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "A14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 553.72 307.34 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97753ebb-bc4a-484b-b0c5-52d63ddce194")
+		(property "Reference" "R46"
+			(at 553.72 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 311.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 305.562 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7aa40baa-1b3e-40e7-bbe8-349ac6de5400")
+		)
+		(pin "2"
+			(uuid "9b068ebc-c782-422a-99f2-ef3d564be71a")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -24351,7 +24243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3efd1f4-d8d2-49d3-baf2-98e65d130392")
-		(property "Reference" "U7"
+		(property "Reference" "74HCT244-7"
 			(at 505.0633 294.64 0)
 			(effects
 				(font
@@ -24459,7 +24351,75 @@
 		(instances
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "U7")
+					(reference "74HCT244-7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 553.72 304.8 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3fa4daa-540a-4e8f-8825-bae0c3af4ba9")
+		(property "Reference" "R47"
+			(at 553.72 311.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 308.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 303.022 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c2a7a5fa-1fb1-4b04-884b-10d9b73a5677")
+		)
+		(pin "2"
+			(uuid "20e562ea-d89c-4cf0-99f0-2e4c18dd6be9")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -24526,82 +24486,6 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 553.72 304.8 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a550ff0f-24af-4e70-82db-6389e5219794")
-		(property "Reference" "O6"
-			(at 555.3075 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 555.3075 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
-			(at 553.72 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 553.72 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 553.72 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 553.72 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "07b42c11-603d-4801-934d-4dbdac007e52")
-		)
-		(pin "1"
-			(uuid "da8d02a8-5d99-4338-920e-d001fd546cc6")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "O6")
 					(unit 1)
 				)
 			)
@@ -25282,6 +25166,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 307.34 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b28bdb44-4876-4a94-96fb-cfdb3ebe738e")
+		(property "Reference" "O2"
+			(at 562.9275 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "32145a86-768c-45e1-9a04-fe2732b915df")
+		)
+		(pin "2"
+			(uuid "f726a899-7ca1-487d-9a3d-4d71abe5852a")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 35.56 139.7 90)
 		(unit 1)
@@ -25427,6 +25388,142 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 553.72 314.96 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7abaa98-bb63-4ca8-a969-13cb1386fde1")
+		(property "Reference" "R43"
+			(at 553.72 321.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 318.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 313.182 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95505719-810d-433b-a628-78aed6918299")
+		)
+		(pin "2"
+			(uuid "234736da-e147-4437-8cb9-70340afeef0b")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 553.72 312.42 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b87e0fcb-0031-4f3d-83c8-584dd40114bf")
+		(property "Reference" "R44"
+			(at 553.72 318.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 553.72 316.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+			(at 553.72 310.642 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 553.72 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 553.72 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4031e1c4-714a-44b7-a9f6-b8a022cccbd5")
+		)
+		(pin "2"
+			(uuid "a3dc4886-e941-44a5-a736-7ee503b69a68")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "R44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Interface:Z8420")
 		(at 217.17 299.72 0)
 		(unit 1)
@@ -25435,7 +25532,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b88b45af-d284-4754-bb62-add6011f1983")
-		(property "Reference" "U5"
+		(property "Reference" "Z80PIO0"
 			(at 219.3133 264.16 0)
 			(effects
 				(font
@@ -25603,7 +25700,7 @@
 		(instances
 			(project ""
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "U5")
+					(reference "Z80PIO0")
 					(unit 1)
 				)
 			)
@@ -26025,97 +26122,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Network08")
-		(at 528.32 293.37 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c193bbeb-15a3-44a2-be1e-ff630efc6c70")
-		(property "Reference" "RN6"
-			(at 518.16 292.3539 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 517.906 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP9"
-			(at 516.255 293.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-			(at 528.32 293.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "8 resistor network, star topology, bussed resistors, small symbol"
-			(at 528.32 293.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "2989ad03-6134-4f75-be88-84d5894de280")
-		)
-		(pin "8"
-			(uuid "25e6667f-f341-4e18-bafa-11f55da5c155")
-		)
-		(pin "2"
-			(uuid "e62aee60-6511-4bb2-85a8-aa21c4458cce")
-		)
-		(pin "6"
-			(uuid "49692a8d-5f0f-4567-b48f-1cfcccc7e566")
-		)
-		(pin "3"
-			(uuid "aafe60dd-edd5-4943-aa11-b32ed72e9d25")
-		)
-		(pin "1"
-			(uuid "f6fcc807-c78d-4354-829b-53f2dca54bc9")
-		)
-		(pin "7"
-			(uuid "92d41f85-a52b-434f-9679-16d9b3fb4ff0")
-		)
-		(pin "5"
-			(uuid "d524bd66-d806-4a73-aa60-75a67ea7dfb2")
-		)
-		(pin "9"
-			(uuid "2f7f9cf6-7000-41fb-8a9e-79f658f8bd49")
-		)
-		(instances
-			(project "Z80マイコン制作"
-				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
-					(reference "RN6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 26.67 83.82 0)
 		(unit 1)
@@ -26285,6 +26291,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 317.5 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c323854b-5ca3-4bad-aa42-c4aa62c97ec3")
+		(property "Reference" "O6"
+			(at 562.9275 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab8b3c1c-01a8-471c-befb-a43039a6b32a")
+		)
+		(pin "2"
+			(uuid "2c23826f-d22a-4714-83a9-cad24b803e29")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 34.29 83.82 90)
 		(unit 1)
@@ -26347,6 +26430,83 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 304.8 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4ae7e57-a4de-4193-af42-73f41a28afd7")
+		(property "Reference" "O1"
+			(at 562.9275 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78163d4d-df01-4fee-95de-6788b8a1a97e")
+		)
+		(pin "2"
+			(uuid "6431c017-d83d-4551-b663-dff83e096ab3")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O1")
 					(unit 1)
 				)
 			)
@@ -26485,6 +26645,83 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 561.34 302.26 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5789e0c-2fcc-463e-b348-cdc79a2994b6")
+		(property "Reference" "O0"
+			(at 562.9275 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 562.9275 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 561.34 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 561.34 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 561.34 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 561.34 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1527695-7ac6-4351-af8c-51a756891eea")
+		)
+		(pin "2"
+			(uuid "c2bef8ac-509c-4eb9-9f40-9c0edd1e6797")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "O0")
 					(unit 1)
 				)
 			)
@@ -27400,6 +27637,72 @@
 			(project "Z80マイコン制作"
 				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
 					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 565.15 320.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8f149c1-1b07-47fb-a2ca-f544e3903461")
+		(property "Reference" "#PWR035"
+			(at 565.15 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 565.15 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 565.15 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 565.15 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 565.15 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c71bc186-9959-42f1-aa1a-1b5139a8269b")
+		)
+		(instances
+			(project "Z80マイコン制作"
+				(path "/d3b456cd-a45d-4b7a-9b3e-db44580782e1"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
